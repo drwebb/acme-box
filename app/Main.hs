@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Acme.Box
 
 main :: IO ()
-main = someFunc
+main = box
