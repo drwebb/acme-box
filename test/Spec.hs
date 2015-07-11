@@ -1,5 +1,6 @@
 import Acme.Box
 
+
 main :: IO ()
 main = do
   testbox <- box
