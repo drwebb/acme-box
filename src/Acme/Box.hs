@@ -1,3 +1,6 @@
+{-|
+The main box module.
+-}
 module Acme.Box
     ( box
     ) where
