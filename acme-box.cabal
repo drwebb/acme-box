@@ -6,7 +6,7 @@ description:         An Acme box brings you the finest in empty Haskell
                      guaranteed to build under even the harshest of
                      conditions. Made of rugged recycled type safe
                      code, an Acme box comes ready to compile.
-homepage:            http://github.com/drwebb/acme-box
+homepage:            https://github.com/drwebb/acme-box
 license:             BSD3
 license-file:        LICENSE
 author:              Tristan Webb
